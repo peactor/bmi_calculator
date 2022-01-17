@@ -56,7 +56,7 @@ class _MyCustomFormState extends State<MyCustomForm> {
               },
             ),
             TextField(
-              controller: myController,,
+              controller: myController,
             ),
           ],
         ),
